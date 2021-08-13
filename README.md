@@ -16,19 +16,19 @@
 [Heroku](https://dry-wildwood-13884.herokuapp.com/)
 
 ## Demo
-![Blog](Images/todoDB.png)
+![Blog](Images/Blog-Img.png)
 
 <br>
 
-![Compose](Images/todogrocery.png)
+![Compose](Images/blog-comose.png)
 
 <br>
 
-![Post](Images/todoschool.png)
+![Post](Images/blog1img.png)
 
 <br>
 
-![DataBase](Images/todoDB.png)
+![DataBase](Images/BlogDB-img.png)
 
   
 ## Authors
