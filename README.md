@@ -18,7 +18,7 @@ This is a blog website made by using EJS, Node.js, Express.js, Lodash. It also h
 
 <br>
 
-![Compose](Images/blog comose.png)
+![Compose](Images/blog-comose.png)
 
 <br>
 
