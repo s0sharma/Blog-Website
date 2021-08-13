@@ -7,7 +7,7 @@
 
 ## Tech Stack
 
-**Technology:** Node, Express, EJS, MongoDB
+* **Technology:** Node, Express, EJS, MongoDB
 
   
 ## Link
