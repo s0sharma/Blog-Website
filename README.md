@@ -2,7 +2,7 @@
 # Blog Website
 
 * List This is a blog website made by using EJS, Node.js, Express.js, Lodash. It also has a MongoDB data base.
-* List New Blog Can be composed by going [https://dry-wildwood-13884.herokuapp.com/Compose](https://dry-wildwood-13884.herokuapp.com/Compose)
+* List New Blog Can be composed by going [https://dry-wildwood-13884.herokuapp.com/Compose](https://dry-wildwood-13884.herokuapp.com/Compose) page.
 
 
 ## Tech Stack
