@@ -1,4 +1,9 @@
 
+
+ ## Link
+
+[Heroku](https://dry-wildwood-13884.herokuapp.com/)
+
 # Blog Website
 
 *  This is a blog website made by using EJS, Node.js, Express.js, Lodash. It also has a MongoDB data base.
@@ -10,10 +15,6 @@
 * **Server:** Node, Express, EJS,
 * **DataBase:** MongoDB
 
-  
-## Link
-
-[Heroku](https://dry-wildwood-13884.herokuapp.com/)
 
 ## Demo
 ![Blog](Images/Blog-Img.png)
