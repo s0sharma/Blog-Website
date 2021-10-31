@@ -1,4 +1,4 @@
-
+/Home page
 <%- include("partials/header"); -%>
   
     <h1>Home</h1>
@@ -9,7 +9,7 @@
 
     <h1><%=post.title%></h1>
     <p>
-      <%=post.content.substring(0, 100) + " ..."%>
+      <%=post.content.substring(0, 100) + " ..."%>    //Hide the full blog. only showes first 100 words
       <a href="/posts/<%=post._id%>">Read More</a>
     </p>
 
