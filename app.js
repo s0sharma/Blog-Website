@@ -70,7 +70,6 @@ app.post("/compose", function(req, res){
         res.redirect("/");
     }
   });
-
 });
 
 //clicking on readmore on the home screen bring up the post with the id on the url
@@ -86,7 +85,6 @@ app.get("/posts/:postId", function(req, res){
    });
   });
 });
-
 
 // Specifying port for server
 let port = process.env.PORT;
